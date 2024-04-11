@@ -12,6 +12,7 @@ Hello to the Demo for the WIS course.
 1. the second
 1. the third
 
-![](https://cdn.britannica.com/01/152301-050-1EF6EBB4/Cheetah.jpg)
+* [Show some animals](/animals)
 
+  
 
