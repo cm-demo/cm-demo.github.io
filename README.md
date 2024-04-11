@@ -13,6 +13,6 @@ Hello to the Demo for the WIS course.
 1. the third
 
 * [Show some animals](/animals)
-
+* [windows](/windows)
   
 
